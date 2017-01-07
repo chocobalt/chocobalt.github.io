@@ -42,7 +42,19 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-<!--              	{% include svg-icons.html %} --> <a href="https://twitter.com/chocobalt"><img src="http://i.imgur.com/aRGsVOQ.png" onmouseover="http://i.imgur.com/FRz3qX5.png" onmouseout="http://i.imgur.com/aRGsVOQ.png" /></a>
+              	{% include svg-icons.html %}   
+              	<style type="text/css">
+              	.pic{
+              			opacity: 1;
+              			filter: alpha(opacity=100);
+              			background: url(http://i.imgur.com/aRGsVOQ.png) no-repeat;
+              		}
+              	.pic:hover
+              	{
+              			opacity: 0.3;
+              			filter: alpha(opacity=30);
+              	}
+              	</style>
         </footer>
       </div>
     </div>
