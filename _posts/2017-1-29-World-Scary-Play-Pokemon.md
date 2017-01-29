@@ -3,8 +3,6 @@ layout: post
 title: The World is Scary, Let's Play Pokémon
 ---
 
-###### by Oliver Brandt
-
 As a journalistic researcher, I see a lot of shit that scares me. I like to think I'm strong enough to get through it all. I've gotten this far, right? I'm still standing. But the truth is, it gets to me. It hits me hard every time I sit at my desk and read something awful. It wears me down and sometimes, it's just too much. 
 
 This past week has been fucking terrifying. I'll try to avoid getting too political, but the world is not in a good place. People are suffering. People will suffer more. And there's nothing anybody can do to stop it. Every morning, when I sit down at my desk, I dread turning on my PC, because I know there will be nothing but bad news to sort through. At the end of each day, I turn my PC off and just sit. I'm exhausted and tired, but most of all, I'm afraid. 
@@ -25,6 +23,6 @@ The world is scary, play Pokémon instead.
 
 <center>
 
-###### I'm Oliver, a journalistic researcher and audio engineer who currently resides in the icy lands of Tasmania. You can find me on twitter [here](https://twitter.com/chocobalt) or email me at [oliver@brandt.press](mailto:oliver@brandt.press). Or just drop a comment below. I'm always happy to answer any questions you have!
+I'm Oliver, a journalistic researcher and audio engineer who currently resides in the icy lands of Tasmania. You can find me on twitter [here](https://twitter.com/chocobalt) or email me at [oliver@brandt.press](mailto:oliver@brandt.press). Or just drop a comment below. I'm always happy to answer any questions you have!
 
 </center>
