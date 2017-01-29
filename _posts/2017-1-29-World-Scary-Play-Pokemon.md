@@ -17,7 +17,7 @@ The world is scary, play Pokémon instead.
 
 
 
-> "We do have a lot in common. The same earth, the same air, the same sky. Maybe if we started looking at what's the same... instead of always looking at what's different, well, who knows?" - Meowth, *Pokémon, The First Movie*
+> "We do have a lot in common. The same earth, the same air, the same sky. Maybe if we started looking at what's the same... instead of always looking at what's different, well, who knows?" - Meowth (Pokémon, The First Movie)
 
 
 
