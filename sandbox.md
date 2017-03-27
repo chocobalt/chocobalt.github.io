@@ -6,11 +6,11 @@ It's incredibly easy to set up, though the process can take a bit of time and it
 
 *Just as a quick note, it seems like Nintendo has prevented credit and debit cards from working on foreign eShops. However, it is possible to buy eShop cards from other regions, so that's probably your best bet if you want to buy games from a different region's eShop.*
 
-First off, you'll need to open up a web browser on your PC or tablet and navigate to [accounts.nintendo.com](http://accounts.nintendo.com). If you're already logged into an account, simply log out by clicking on your user icon in the top right hand corner of the page. Once you're logged out, scroll to the bottom of the page and click on the big button labeled "Create a Nintendo Account."![](http://i.imgur.com/aHNyUlB.png)
+First off, you'll need to open up a web browser on your PC or tablet and navigate to [accounts.nintendo.com](http://accounts.nintendo.com). If you're already logged into an account, simply log out by clicking on your user icon in the top right hand corner of the page. Once you're logged out, scroll to the bottom of the page and click on the big button labelled "Create a Nintendo Account."![](http://i.imgur.com/aHNyUlB.png)
 
 
 
-Next, you'll want to click the button on the right labeled "Create your Nintendo Account."
+Next, you'll want to click the button on the right labelled "Create your Nintendo Account."
 
 ![](http://i.imgur.com/WdBIRfp.png)
 
