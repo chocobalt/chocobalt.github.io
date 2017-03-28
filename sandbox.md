@@ -60,5 +60,10 @@ You're done! Now all that's left is to hit home, open up the eShop, select the a
 
 ![](http://i.imgur.com/xDgXM8Z.png)
 
-… voila! Welcome to the eShop of another region, enjoy your stay. 
+… voila! Welcome to the eShop of another region. 
 
+It’s worth noting that this comes with a couple of caveats.Firstly, credit and debit cards from your region won’t work in a foreign region’seShop, no matter what. If you want to purchase games in another region’s eShop,you’ll have to find a way to buy an eShop card from that region. Secondly, whenyou have accounts from more than one region on your Switch, the news sectiontends to get a bit bloated with notifications from regions that won’tnecessarily be important to you, and they might not be in a language youunderstand either. It is possible to turn news off but it’s all or nothing; ifyou turn news off, you won’t get news for your region either. 
+
+One final point of note is that you *can* change the region of your existing account, but we strongly recommend that you don’t. YoureShop balance won’t carry over, and you won’t be able to use credit/debit cardsor eShop cards from your region either. On top of that, DLC is region locked,so any physical game carts from your region won’t be able to access DLC boughtfrom the eShop of another region. 
+
+But hey, at least the option is there.  
